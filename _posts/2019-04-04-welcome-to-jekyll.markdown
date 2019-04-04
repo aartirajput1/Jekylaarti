@@ -17,7 +17,11 @@ Prerequisites for adding user accounts by admin team
 A drop-down menu appears with options to enter the following sections: Personal, Users, Apps, Admin, Help, and Log out.
  
 3.	Click on the Users item from the drop-down menu. A default table appears displaying basic information about the users whose accounts have already been created.
- 
+
+     | ![space-1.jpg](http://www.storywarren.com/wp-content/uploads/2016/09/space-1.jpg) | 
+|:--:| 
+| *Space* |
+
 4.	Create groups based on user’s access limitations.
 	To add groups, go to the Groups field. Hover over the + add group field, enter a name for the 	group and hit Enter. 
 	Now you can start adding users and adding them to specific groups as per defined access 	controls.
