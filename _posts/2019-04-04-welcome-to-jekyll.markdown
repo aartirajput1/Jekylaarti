@@ -7,6 +7,9 @@ categories: jekyll update
 
 ![My helpful screenshot]({{ site.url }}/images/Fig1.jpg)
 
+{:.image-caption}
+*The caption for my image*
+
 Adding user accounts
 ownCloud is an enterprise file sharing service for online collaboration and storage. To access this service, the user needs to have their user account which is created and managed by the admin group.
 Prerequisites for adding user accounts by admin team
